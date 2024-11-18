@@ -1,5 +1,5 @@
 {
-  "events": [
+  "sports": [
     {
       "id": 1,
       "country": "China",
@@ -7,8 +7,8 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": true,
-      "organizer": "Kat Laydee"
+      "petsAllowed": true
+      
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": true,
-      "organizer": "Fern Pollin"
+      "petsAllowed": true
+      
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": false,
-      "organizer": "Carey Wales"
+      "petsAllowed": false
+      
     }
   ]
 }
