@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "country": "China",
+      "description": "China has demonstrated extraordinary strength and charm on the international stage with its large team of athletes, outstanding competitive level, and profound sports spirit.",
+      "gold": 5,
+      "silver": 8,
+      "bronze": 5,
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 2,
+      "country": "America",
+      "description": "The United States has demonstrated its status as a sports powerhouse and global influence at the Olympics with its strong athletic roster, broad participation in sports, and outstanding athletic achievements.",
+      "gold": 5,
+      "silver": 8,
+      "bronze": 5,
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 3,
+      "country": "England",
+      "description": "Britain has consistently demonstrated its status as a sports powerhouse through its rich sporting heritage, widespread participation in competitive events, and outstanding performances by its athletes at the Olympics.",
+      "gold": 5,
+      "silver": 8,
+      "bronze": 5,
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    }
+  ]
+}
