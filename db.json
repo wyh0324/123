@@ -7,7 +7,10 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": true
+      "petsAllowed": true,
+      "sport1":"swimming",
+      "sport2":"basketball",
+      "sport3":"running"
       
     },
     {
@@ -17,7 +20,10 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": true
+      "petsAllowed": true,
+      "sport1":"swimming",
+      "sport2":"basketball",
+      "sport3":"running"
       
     },
     {
@@ -27,7 +33,10 @@
       "gold": 5,
       "silver": 8,
       "bronze": 5,
-      "petsAllowed": false
+      "petsAllowed": false,
+      "sport1":"swimming",
+      "sport2":"basketball",
+      "sport3":"running"
       
     }
   ]
