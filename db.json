@@ -10,7 +10,19 @@
       "petsAllowed": true,
       "sport1":"swimming",
       "sport2":"basketball",
-      "sport3":"running"
+      "sport3":"running",
+      "silver1":3,
+      "silver2":2,
+      "silver3":3,
+      "gold1":1,
+      "gold2":2,
+      "gold3":3,
+      "bronze1":1,
+      "bronze2":2,
+      "bronze3":3
+
+      
+
       
     },
     {
@@ -23,7 +35,16 @@
       "petsAllowed": true,
       "sport1":"swimming",
       "sport2":"basketball",
-      "sport3":"running"
+      "sport3":"running",
+      "silver1":3,
+      "silver2":2,
+      "silver3":3,
+      "gold1":1,
+      "gold2":2,
+      "gold3":3,
+      "bronze1":1,
+      "bronze2":2,
+      "bronze3":3
       
     },
     {
@@ -36,7 +57,16 @@
       "petsAllowed": false,
       "sport1":"swimming",
       "sport2":"basketball",
-      "sport3":"running"
+      "sport3":"running",
+      "silver1":3,
+      "silver2":2,
+      "silver3":3,
+      "gold1":1,
+      "gold2":2,
+      "gold3":3,
+      "bronze1":1,
+      "bronze2":2,
+      "bronze3":3
       
     }
   ]
